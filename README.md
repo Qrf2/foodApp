@@ -1,50 +1,20 @@
-# Welcome to your Expo app 👋
+App Type: FoodApp
 
-This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
+Tagline: Discover and Order Your Favorite Meals in Just a Few Taps
 
-## Get started
+Description:
 
-1. Install dependencies
+FoodApp is a sleek and intuitive food delivery mobile application built with React Native and Expo. It simplifies the process of discovering, ordering, and managing food deliveries, featuring scrollable food categories, a dynamic list of featured dishes, and easy-to-use navigation. The app ensures a smooth and engaging user experience with modern design and efficient navigation, offering a variety of cuisines to choose from.
 
-   ```bash
-   npm install
-   ```
+Key Features:
 
-2. Start the app
+Food Categories: Browse food types with scrollable icons for quick access.
+Search and Filters: Easily find dishes using the search bar with customizable filters.
+Quick Add Options: Add featured dishes to your order with a single tap.
+Responsive Design: Tailored for all screen sizes, ensuring a seamless experience.
+Smooth Navigation: React Navigation powers effortless transitions between app screens.
+Built With:
 
-   ```bash
-    npx expo start
-   ```
-
-In the output, you'll find options to open the app in a
-
-- [development build](https://docs.expo.dev/develop/development-builds/introduction/)
-- [Android emulator](https://docs.expo.dev/workflow/android-studio-emulator/)
-- [iOS simulator](https://docs.expo.dev/workflow/ios-simulator/)
-- [Expo Go](https://expo.dev/go), a limited sandbox for trying out app development with Expo
-
-You can start developing by editing the files inside the **app** directory. This project uses [file-based routing](https://docs.expo.dev/router/introduction).
-
-## Get a fresh project
-
-When you're ready, run:
-
-```bash
-npm run reset-project
-```
-
-This command will move the starter code to the **app-example** directory and create a blank **app** directory where you can start developing.
-
-## Learn more
-
-To learn more about developing your project with Expo, look at the following resources:
-
-- [Expo documentation](https://docs.expo.dev/): Learn fundamentals, or go into advanced topics with our [guides](https://docs.expo.dev/guides).
-- [Learn Expo tutorial](https://docs.expo.dev/tutorial/introduction/): Follow a step-by-step tutorial where you'll create a project that runs on Android, iOS, and the web.
-
-## Join the community
-
-Join our community of developers creating universal apps.
-
-- [Expo on GitHub](https://github.com/expo/expo): View our open source platform and contribute.
-- [Discord community](https://chat.expo.dev): Chat with Expo users and ask questions.
+React Native for a cross-platform mobile experience.
+Expo for rapid development and easy deployment.
+Tailwind CSS for a clean, responsive UI
