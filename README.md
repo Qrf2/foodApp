@@ -31,7 +31,8 @@ Tailwind CSS for a clean, responsive UI.
 
 Here are some ScreenShots from my app
 
-![Screenshot 2025-01-18 205714](https://github.com/user-attachments/assets/629a6108-4428-4ba6-b483-ef86945a2ba8)
+![Uploading Screenshot 2025-01-18 205714_11zon.png…]()
+
 
 
 
